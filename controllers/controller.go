@@ -4,7 +4,7 @@ import (
 	"MiddleProject/config"
 	"MiddleProject/models"
 	"github.com/dgrijalva/jwt-go"
-	"github.com/gofiber/fiber"
+	"github.com/gofiber/fiber/v2"
 	"golang.org/x/crypto/bcrypt"
 	"strconv"
 	"time"
